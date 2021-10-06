@@ -1,2 +1,2 @@
 primera linea en arquivo1.txt
-Segunda línea de Sergio
+Segunda línea de Sergio corrigiendo la de Alex
