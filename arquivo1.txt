@@ -1,1 +1,2 @@
 primera linea en arquivo1.txt
+Segunda línea de Sergio
