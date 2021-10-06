@@ -1,1 +1,2 @@
 primera linea en arquivo1.txt
+Una segunda liña distinta en arquivo1.txt
